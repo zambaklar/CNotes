@@ -1,2 +1,2 @@
-# CNotes
-My C (programming language) code snippets as I learn about the language from scratch
+# My C notes
+I'm trying to learn C, here are some of the codes that I will be uploading to refer to in the future.
